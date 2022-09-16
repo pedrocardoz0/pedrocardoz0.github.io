@@ -2,3 +2,21 @@ baseURL: "https://pedrocardoz0.github.io/"
 languageCode: pt-br
 title: Fusca Labs
 theme: PaperMod
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    author: pedrocardoz0
+    defaultTheme: auto
+
+    homeInfoParams:
+        Title: "undefined 🦀"
+        Content: >
+            rust | blockchain | web3
+    socialIcons:
+        - name: github
+          url: "https://github.com/pedrocardoz0"
+    ShowPostNavLinks: true
+    editPost:
+        URL: "https://github.com/pedrocardoz0/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
