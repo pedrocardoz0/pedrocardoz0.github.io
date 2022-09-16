@@ -3,10 +3,15 @@ languageCode: pt-br
 title: Fusca Labs
 theme: PaperMod
 
+googleAnalytics: G-6JP6NB2CJE
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     author: pedrocardoz0
     defaultTheme: auto
+
+    ShowPostNavLinks: true
+    ShowReadingTime: true
 
     homeInfoParams:
         Title: "undefined 🦀"
@@ -15,7 +20,7 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/pedrocardoz0"
-    ShowPostNavLinks: true
+
     editPost:
         URL: "https://github.com/pedrocardoz0/content"
         Text: "Suggest Changes" # edit text
