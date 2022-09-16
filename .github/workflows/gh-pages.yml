@@ -28,7 +28,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: exampleSite
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
