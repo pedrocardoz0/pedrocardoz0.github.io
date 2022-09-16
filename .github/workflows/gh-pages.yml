@@ -28,8 +28,6 @@ jobs:
     deploy:
         runs-on: ubuntu-latest
         needs: build
-        with:
-            deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         steps:
             - name: Deploy to GitHub Pages
               uses: peaceiris/actions-gh-pages@v3
