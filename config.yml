@@ -2,7 +2,11 @@ baseURL: "https://pedrocardoz0.github.io/"
 defaultContentLanguage: pt-br
 languageCode: pt-br
 title: fusca Labs
+description: rust | web3 | blockchain
 theme: PaperMod
+
+images:
+    - "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
 
 googleAnalytics: G-6JP6NB2CJE
 
@@ -30,8 +34,6 @@ languages:
                 - name: search
                   url: search/
                   weight: 10
-images:
-    - "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
