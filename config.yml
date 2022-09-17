@@ -30,6 +30,8 @@ languages:
                 - name: search
                   url: search/
                   weight: 10
+images:
+    - "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -54,5 +56,3 @@ params:
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    cover:
-        image: "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
