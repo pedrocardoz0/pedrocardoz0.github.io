@@ -12,6 +12,15 @@
     <language>pt-br</language>
     <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pedrocardoz0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Icons</title>
+      <link>https://pedrocardoz0.github.io/posts/book/icon/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrocardoz0.github.io/posts/book/icon/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    
+    <item>
       <title>rust</title>
       <link>https://pedrocardoz0.github.io/posts/rust/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
