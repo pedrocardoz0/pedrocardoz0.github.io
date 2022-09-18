@@ -59,9 +59,9 @@ params:
           url: "https://github.com/pedrocardoz0"
 
     editPost:
-        URL: "https://github.com/pedrocardoz0/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        URL: "https://github.com/pedrocardoz0/pedrocardoz0.github.io/tree/main/content/posts"
+        Text: "Suggest Changes"
+        appendFilePath: true
 
     assets:
         favicon16x16: "icon-block-16.svg"
