@@ -65,3 +65,6 @@ params:
     label:
         icon: "https://i.pinimg.com/736x/58/8c/40/588c40c1753df711ca236203b140d514.jpg"
         iconHeight: 35
+
+    cover:
+        image: "https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg"
