@@ -37,6 +37,8 @@ params:
     description: rust | web3 | blockchain
     defaultTheme: auto
 
+     images: ["https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg"]
+
     ShowPostNavLinks: true
     ShowReadingTime: true
     ShowToc: true
@@ -54,11 +56,6 @@ params:
         URL: "https://github.com/pedrocardoz0/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
-
-    images:
-        [
-            "https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg",
-        ]
 
     assets:
         favicon: "https://i.pinimg.com/564x/27/fa/f5/27faf5a6d394cc9685ff633542ff56c5.jpg"
