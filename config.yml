@@ -8,7 +8,7 @@ paginate: 5
 googleAnalytics: G-6JP6NB2CJE
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
