@@ -6,6 +6,15 @@ theme: PaperMod
 
 googleAnalytics: G-6JP6NB2CJE
 
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
 outputs:
     home:
         - HTML
@@ -69,3 +78,9 @@ params:
         safari_pinned_tab: "icon-block-32.svg"
 
     ShareButtons: ["linkedin"]
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
