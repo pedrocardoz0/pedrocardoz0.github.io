@@ -59,7 +59,7 @@ params:
           url: "https://github.com/pedrocardoz0"
 
     editPost:
-        URL: "https://github.com/pedrocardoz0/pedrocardoz0.github.io/tree/main/content/posts"
+        URL: "https://github.com/pedrocardoz0/pedrocardoz0.github.io/tree/main/content"
         Text: "Suggest Changes"
         appendFilePath: true
 
