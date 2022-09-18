@@ -1,7 +1,7 @@
 baseURL: "https://pedrocardoz0.github.io/"
 defaultContentLanguage: pt-br
 languageCode: pt-br
-title: fusca Labs
+title: fusca labs
 theme: PaperMod
 
 googleAnalytics: G-6JP6NB2CJE
@@ -59,5 +59,9 @@ params:
         - "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
 
     assets:
-        favicon: "https://i.pinimg.com/564x/30/e8/3a/30e83a425339a5db590a131424a69d73.jpg"
+        favicon: "https://i.pinimg.com/564x/27/fa/f5/27faf5a6d394cc9685ff633542ff56c5.jpg"
         theme_color: "#FAFAFA"
+
+    label:
+        icon: "https://i.pinimg.com/736x/58/8c/40/588c40c1753df711ca236203b140d514.jpg"
+        iconHeight: 35
