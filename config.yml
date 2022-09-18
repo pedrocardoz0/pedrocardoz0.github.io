@@ -59,4 +59,5 @@ params:
         - "https://i.pinimg.com/564x/31/83/5a/31835ac5c67d8a84a5f40b82547cd029.jpg"
 
     assets:
-      favicon: "https://i.pinimg.com/564x/5a/d7/a1/5ad7a10987cf3823d215f85a09701f94.jpg"
+        favicon: "https://i.pinimg.com/564x/30/e8/3a/30e83a425339a5db590a131424a69d73.jpg"
+        theme_color: "#FAFAFA"
