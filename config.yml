@@ -32,7 +32,7 @@ languages:
                   weight: 10
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
     author: pedrocardoz0
     description: rust | web3 | blockchain
     defaultTheme: auto
@@ -42,7 +42,9 @@ params:
     ShowPostNavLinks: true
     ShowReadingTime: true
     ShowToc: true
+
     hidemeta: false
+    hideFooter: true
 
     homeInfoParams:
         Title: "undefined 🦀"
@@ -62,9 +64,5 @@ params:
         favicon16x16: "icon-block-16.svg"
         favicon32x32: "icon-block-32.svg"
         safari_pinned_tab: "icon-block-32.svg"
-
-    label:
-        icon: "https://i.pinimg.com/736x/58/8c/40/588c40c1753df711ca236203b140d514.jpg"
-        iconHeight: 35
 
     ShareButtons: ["linkedin"]
