@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>css on fusca labs</title>
+    <link>https://pedrocardoz0.github.io/tags/css/</link>
+    <description>Recent content in css on fusca labs</description>
+    <image>
+      <url>https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg</url>
+      <link>https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pedrocardoz0.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown syntax guide</title>
+      <link>https://pedrocardoz0.github.io/posts/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrocardoz0.github.io/posts/markdown/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
+  </channel>
+</rss>

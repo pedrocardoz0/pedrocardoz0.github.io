@@ -9,6 +9,25 @@
       <link>https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://pedrocardoz0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://pedrocardoz0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syntax</title>
+      <link>https://pedrocardoz0.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrocardoz0.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://pedrocardoz0.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrocardoz0.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
