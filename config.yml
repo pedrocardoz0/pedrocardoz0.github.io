@@ -37,7 +37,10 @@ params:
     description: rust | web3 | blockchain
     defaultTheme: auto
 
-    images: "https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg"
+    images:
+        [
+            "https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg",
+        ]
 
     ShowPostNavLinks: true
     ShowReadingTime: true
