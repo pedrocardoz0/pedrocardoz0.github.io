@@ -3,6 +3,7 @@ defaultContentLanguage: pt-br
 languageCode: pt-br
 title: fusca labs
 theme: PaperMod
+paginate: 5
 
 googleAnalytics: G-6JP6NB2CJE
 
@@ -51,9 +52,16 @@ params:
             "https://i.pinimg.com/564x/07/ff/66/07ff66c3c43f09c1b81f11b0b503c5dd.jpg",
         ]
 
+    cover:
+        hidden: true
+        hiddenInList: true
+        hiddenInSingle: true
+
     ShowPostNavLinks: true
     ShowReadingTime: true
     ShowToc: true
+    ShareButtons: ["linkedin"]
+    UseHugoToc: true
 
     hidemeta: false
     hideFooter: true
@@ -73,14 +81,7 @@ params:
         appendFilePath: true
 
     assets:
+        disableFingerprinting: true
         favicon16x16: "icon-block-16.svg"
         favicon32x32: "icon-block-32.svg"
         safari_pinned_tab: "icon-block-32.svg"
-
-    ShareButtons: ["linkedin"]
-
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
-
